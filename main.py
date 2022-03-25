@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-#%matplotlib inline
+%matplotlib inline
 
 import tensorflow as tf
 from tensorflow.keras.datasets import cifar10
